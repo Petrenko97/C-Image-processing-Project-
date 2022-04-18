@@ -1,0 +1,5 @@
+﻿  ppm.cpp
+c:\users\user\desktop\project1\ppm\ppm.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\project1\ppm\ppm.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\project1\ppm\ppm.cpp(78): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  ppm.vcxproj -> C:\Users\User\Desktop\Project1\libppm\ppm.lib

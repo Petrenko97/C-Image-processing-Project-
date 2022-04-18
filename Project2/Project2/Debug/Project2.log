@@ -1,0 +1,37 @@
+﻿  FilterBlur.cpp
+c:\users\user\desktop\project2\project2\filter.h(8): error C2059: syntax error: '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2143: syntax error: missing ';' before '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2238: unexpected token(s) preceding ';'
+c:\users\user\desktop\project2\project2\filterblur.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\project2\project2\filterblur.cpp(9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  FilterG.cpp
+c:\users\user\desktop\project2\project2\filter.h(8): error C2059: syntax error: '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2143: syntax error: missing ';' before '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
+  Compiling...
+  FilterLaplace.cpp
+c:\users\user\desktop\project2\project2\filter.h(8): error C2059: syntax error: '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2143: syntax error: missing ';' before '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
+  Compiling...
+  FilterLinearcpp.cpp
+c:\users\user\desktop\project2\project2\filter.h(8): error C2059: syntax error: '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2143: syntax error: missing ';' before '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\user\desktop\project2\project2\filter.h(8): error C2059: syntax error: '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2143: syntax error: missing ';' before '}'
+c:\users\user\desktop\project2\project2\filter.h(8): error C2238: unexpected token(s) preceding ';'
+c:\users\user\desktop\project2\project2\main.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\project2\project2\main.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\project2\project2\main.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\project2\project2\main.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\project2\project2\main.cpp(59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\project2\project2\main.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
